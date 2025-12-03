@@ -10,7 +10,7 @@ const Navbar = () => {
             <div className="navbar-container">
                 {/* Logo */}
                 <Link to="/" className="navbar-logo">
-                    <img src="/public/images/logo.png" alt="Gaana Logo" className="navbar-logo-img" />
+                    <img src="https://pnghdpro.com/wp-content/themes/pnghdpro/download/social-media-and-brands/gaana-app-icon.png" alt="Gaana Logo" className="navbar-logo-img" />
                     <span className="logo-text">GAANA</span>
                 </Link>
 
